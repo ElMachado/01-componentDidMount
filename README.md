@@ -1,4 +1,4 @@
-# webpack-sass-vanillajs
+# 01-componentDidMount
 
 Using Sass + vanilla js + Webpack
 
